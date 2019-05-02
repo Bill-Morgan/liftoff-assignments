@@ -17,6 +17,8 @@ A few of the features of this project will be:
 4) Events: Users will be able to post information about events (family reunions, etc.).
 5) Interact with other Users:  Users will have the ability to contact other users with in-app direct messaging.  
 6) Notifications: Users will be able to opt-in for email notifications.
+
+
 These are longer term (icebox) features:
 1) Explore Family Tree: Users will be able to explorer their family tree. 
 2) Search:  Users will have the ability to search for other users in addition to the content of blog posts and events.
