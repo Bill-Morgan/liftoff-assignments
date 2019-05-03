@@ -17,6 +17,7 @@ A few of the features of this project will be:
 4) Events: Users will be able to post information about events (family reunions, etc.).
 5) Interact with other Users:  Users will have the ability to contact other users with in-app direct messaging.  
 6) Notifications: Users will be able to opt-in for email notifications.
+7) Calendar: Users will be able to view birthdays and anniversaries on some sort of list or calendar.
 
 
 These are longer term (icebox) features:
