@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-[https://github.com/Bill-Morgan](GitHub Repository)
+[GitHub Repository](https://github.com/Bill-Morgan)
  
 ### LinkedIn
-[www.linkedin.com/in/william-morgan-wam](William Morgan - Linkedin)
+[William Morgan - Linkedin](www.linkedin.com/in/william-morgan-wam)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
