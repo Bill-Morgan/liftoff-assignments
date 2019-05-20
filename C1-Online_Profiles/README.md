@@ -13,6 +13,5 @@ For this assignment you will need to upload your resume, and provide links to yo
 [William Morgan - Linkedin](https://www.linkedin.com/in/william-morgan-wam)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
+[Resume](https://github.com/Bill-Morgan/liftoff-assignments/blob/master/C1-Online_Profiles/Resume.pdf)
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
